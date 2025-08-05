@@ -1,0 +1,13 @@
+body {
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 255, 0.736),
+    rgb(251, 245, 246)
+  );
+  text-align: center;
+  /* background-image: url(./15587.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
